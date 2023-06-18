@@ -1,19 +1,3 @@
-# f_13_bootcamp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 # **Takım İsmi**
 
@@ -34,36 +18,34 @@ FLUTTER TAKIM 13
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 13 Miro Backlog Board](https://miro.com/app/board/uXjVM9xAX_w=/)
 
 ## Ürün Açıklaması
 
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
+Yerel pazarlardan veya çiftliklerden temin edilen taze meyve ve sebzeleri kullanarak kullanıcılar için doğranmış hazır malzemeler sağlar. Bu, kullanıcıların yemekleri hazırlarken zaman kazanmalarına yardımcı olur. Uygulama, kullanıcılara geniş bir yemek seçeneği sunar. Menüde vegan, vejetaryan ve diğer özel diyetlere uygun seçenekler bulunur. Kullanıcılar, uygulama üzerinden istedikleri yemekleri seçebilirler. Kullanıcılar, seçtikleri yemekleri içeren kolilerin evlerine teslim edilmesini sağlayabilirler. Bu şekilde, müşteriler dışarıdan yemek siparişi vermeksizin sağlıklı ve taze yemeklere erişim sağlayabilirler. Hayvan sahiplerine yönelik olarak minik dostlara takviye gıda olarak kullanılabilecek yemek seçenekleri sunar. Kullanıcılar, evcil hayvanları için sağlıklı ve uygun beslenme seçeneklerini kolayca temin edebilirler. Her bir yemek paketinde bulunan QR kodlar, kullanıcıların yemeğin tarifine kolayca erişmelerini sağlar. Kullanıcılar, uygulama üzerinden tariflere göz atabilir ve yemekleri nasıl hazırlayacaklarını adım adım takip edebilirler.
 
 
-- **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
+- **Uygulama birincil fonksiyonu**: Müşteri ihtiyacına göre uygulama içerisinde diyet , kalori , vegan veya vejeteryan seçeneklerine göre yemekler listelenir. Yemeğini de seçen müşteri ürünlerin doğranarak gelmesine de karar vermektedir. Adresine sıfır plastik atık ile teslimat gerçekleşir.
 
-- **Uygulama ikincil fonksiyonu**: Kullanıcı elindeki geri dönüşebilir kıymetli maddeler için teklif almak üzere Scrap App'e girer ve ilan verir, toplayıcı firma, kullanıcının ilanına ilişkin ağırlık ve madde türü gibi bilgileri kullanıcının ilanında görür ve satın alma teklifini kullanıcıya bildirir, kullanıcının teklif onayından sonra, hurda satın alma işlemi gerçekleşir.
+- **Uygulama ikincil fonksiyonu**: Ekrana düşen sipariş bildiriminden sonra uygulama malzemelerin hazırlanması bilgisini verir. Ardından hazırlanan koliyi uygulama algoritmasına göre uygun kuryelere teslim sürecini başlatır.
 
 ## Ürün Özellikleri
 
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularının kutu doluluk oranının geri dönüşüm atık toplayıcılarına bildirilmesi.
-- Doluluk oranı %75'in üzerinde olan apartman akıllı atık kutularındaki geri dönüşüm maddelerinin satın alınmasına ilişkin, toplayıcı firmalar tarafından satın alma teklifini apartman yönetimlerine sunabilmesi ve yönetici tarafından teklifin kabul edilmesi.
-- Apartmandan bağımsız olarak biriktirilmiş bireysel geri dönüşüm maddelerinin satın alımı için toplayıcı firmalardan teklif alma ve toplayıcı çağırma hizmeti.
-- Kullanıcı, apartman yönetimi, atık toplayıcı firma ve uygulama şirketi için geliştirilmiş kullanıcı rolleri, özellikleri ve ekranları.
+- Çevre dostu olan uygulama sıfır plastik atık kullanımı hedeflemektedir.
+- Sağlıksız beslenme yerine tamamen doğal ürünler ile müşterilerin kendi yemeklerini yapmalarını sağlamaktadır. 
+- İçerisinde tüm yeme içme tercihlerine göre seçenekler bulunmaktadır.
+- Artan malzeme olursa en sağlıklı olarak nasıl saklanmalı ve çöpe mi atmalı gibi tavsiyelerde bulunmaktadır.
+- Verilen her on siparişte bir müşteri adına ağaç dikilmesi.
 
 ## Hedef Kitle
 
-- Çevreci gönüllüler
-- Apartman yöneticileri
-- Apartman sakinleri
-- Bina yönetim şirketleri 
-- Geri dönüşüm merkezleri
-- Geri dönüşüm atık toplayıcıları
+-Sağlıklı beslenmeyi önemseyen bireyler
+-Doğru besinleri tüketmeye özen gösteren kişiler
+-Yemek hazırlama sürecinde zaman kazanmak isteyenler
+-Dışarıdan yemek siparişi vermeyi tercih etmeyen müşteriler
+-Yerel pazarlardan veya çiftliklerden taze ürünlerin kullanılmasını destekleyen kişiler
+-Çevre dostu ve sürdürülebilir yaşam tarzını benimseyen kullanıcıları hedefler
 
-## Juriye Not
-
-İlan formu veritabanına başarılı şekilde veri göndermesine rağmen, tecrübe yetersizliği ve zaman eksikliği sebebiyle ilanlar listesi ve teklif formları veritabanıyla ilişkilendirilememiştir.
 
 
 ---
