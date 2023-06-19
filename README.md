@@ -47,5 +47,40 @@ Yerel pazarlardan veya çiftliklerden temin edilen taze meyve ve sebzeleri kulla
 -Çevre dostu ve sürdürülebilir yaşam tarzını benimseyen kullanıcıları hedefler
 
 
+---
+
+# Sprint 1
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+
+
+- **Puan tamamlama mantığı**: : Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/Sprint1/backlog_1.png) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/Sprint1/login.png)
+ 
+- **Sprint Review**: 
+Alınan kararlar: Konunun belirlenmesi planlanmıştır. Kullanıcı temel sayfaları oluşturulması ve UI’ların figmadan görsel olarak hazırlanması planlanmıştır.(Tüm katılımcıların final ve büt haftasına denk gelmesinden dolayı aksaklıklar yaşanmıştır ve kod yazmada ilerlenememiştir.)  Sprint Review katılımcıları: Sude Nur Kömür
+
+- **Sprint Retrospective:**
+  -	Roller dağıtılmıştır ve seçilen proje konuları arasından seçim yapılmıştır.
+  -	Takım üyelerinin gelecek sprintlerde daha aktif ve istekli olması gerektiğine vurgu yapılmıştır.
+
+ 
+
 
 ---
+
+## Product Backlog URL
+
+[Flutter Team 13 Miro Backlog Board](https://miro.com/app/board/uXjVM9xAX_w=/)
+
+---
+
