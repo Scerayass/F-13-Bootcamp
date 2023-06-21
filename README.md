@@ -51,8 +51,9 @@ Yerel pazarlardan veya çiftliklerden temin edilen taze meyve ve sebzeleri kulla
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
+-**Sprint Notları**:User Story'ler product backlog'ların içine yazılmıştır. Grafikler bir sonraki sprintlerde oluşturulacaktır.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
 - **Puan tamamlama mantığı**: : Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
