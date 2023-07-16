@@ -14,7 +14,7 @@ FLUTTER TAKIM 13
 
 ## Ürün İsmi
 
---F_13-- (Karar verilmedi)
+--FreshCut-- 
 
 ## Product Backlog URL
 
@@ -83,9 +83,10 @@ Alınan kararlar: Konunun belirlenmesi planlanmıştır. Kullanıcı temel sayfa
 
 ---
 
-## Product Backlog URL
 
-[Flutter Team 13 Miro Backlog Board](https://miro.com/app/board/uXjVM9xAX_w=/)
+# Sprint 2
+
+-**Yapılmadı**
 
 ---
 
