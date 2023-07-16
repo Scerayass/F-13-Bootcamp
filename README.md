@@ -83,10 +83,22 @@ Alınan kararlar: Konunun belirlenmesi planlanmıştır. Kullanıcı temel sayfa
 
 ---
 
-
 # Sprint 2
 
 -**Yapılmadı**
 
 ---
+
+# Sprint 3
+
+-**Sprint Notları**:Projenin tamamlanması
+- **Sprint içinde tamamlanması tahmin edilen puan**: 150 Puan
+
+- **Puan tamamlama mantığı**: : Toplamda proje boyunca tamamlanması gereken 400 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde son sprint'in 150 olmasına karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/Sprint1/login.png)
+ 
 
