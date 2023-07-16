@@ -1,3 +1,5 @@
+import 'package:f_13_bootcamp/pages/loginPage.dart';
+import 'package:f_13_bootcamp/route_generator.dart';
 import 'package:flutter/material.dart';
 import 'package:f_13_bootcamp/registerpage.dart';
 import 'package:f_13_bootcamp/kaydirma.dart';
@@ -138,6 +140,7 @@ class Giris extends StatelessWidget {
           ),
         ),
       ),
+
     );
   }
 }
