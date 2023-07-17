@@ -99,6 +99,6 @@ Alınan kararlar: Konunun belirlenmesi planlanmıştır. Kullanıcı temel sayfa
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]((https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto1.png)https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto1.png)
+  ![Screenshot 1](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto1.png)
  
 
