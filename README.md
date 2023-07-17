@@ -100,5 +100,12 @@ Alınan kararlar: Konunun belirlenmesi planlanmıştır. Kullanıcı temel sayfa
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto1.png)
- 
+
+  ![Screenshot 2](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto2.png)
+
+  ![Screenshot 3](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto3.png)
+
+  ![Screenshot 4](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto4.png)
+
+  ![Screenshot 5](https://github.com/Scerayass/F-13-Bootcamp/blob/main/Project_Management/foto5.png)
 
