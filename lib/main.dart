@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Greeny Food',
+      title: 'GREENY FOOD',
       home: Giris(),
       routes: <String, WidgetBuilder>{
         '/register': (BuildContext context) => RegisterPage(),

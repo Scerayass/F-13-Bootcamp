@@ -11,7 +11,7 @@ class RotatingImageScreen extends StatelessWidget {
 
   final List<List<String>> imageDescriptions = [
     [
-      "Doğranmış ve yıkanmış meyve sebzelerin kullanacağınız ölçüde size ulaşmasını sağlar. Böylece israfın ve zahmetin önüne geçebilirsiniz."
+      "•Doğranmış ve yıkanmış meyve sebzelerin pişireceğiniz yemek için uygun ölçüde size ulaşmasını sağlar. Böylece israfın ve zahmetin önüne geçebilirsiniz."
     ],
     ["•İhtiyaç duyduğunuz meyve ve sebzeleri seçin."],
     [
@@ -53,6 +53,20 @@ class RotatingImageScreen extends StatelessWidget {
                         ),
                       ),
                     ),
+                    const Spacer(),
+                    // Sipariş ver butonu
+                    Container(
+                      decoration: BoxDecoration(
+                        color: Colors.deepPurple,
+                        borderRadius: BorderRadius.circular(1500),
+                      ),
+                          padding: const EdgeInsets.all(10),
+                       child: Text(
+                         "Sipariş Ver",
+                         style: TextStyle(color: Colors.white),
+                       )
+                    ),
+                    const Spacer(),
                     SizedBox(height: 1), // Görsel ve metin arasındaki boşluk
                     Column(
                       crossAxisAlignment: CrossAxisAlignment.start,
